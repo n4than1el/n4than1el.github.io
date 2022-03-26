@@ -1,6 +1,6 @@
 html{
-	filter: invert(1) hue-rotate(108deg);
-    background: white;
+	/*filter: invert(1) hue-rotate(108deg);*/
+	background: white;
 }
 body{
 	display: flex;
