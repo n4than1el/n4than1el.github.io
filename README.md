@@ -2,4 +2,4 @@
 
 
 
-![ ]('https://lingtalfi.com/services/pngtext?color=ffffff&size=10&text=xxxxx')
+![ ]('uggcf://a4guna1ry.tvguho.vb/')
